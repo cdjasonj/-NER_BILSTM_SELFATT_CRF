@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Chinese Multi-grain embedding for NER.iml" filepath="$PROJECT_DIR$/.idea/Chinese Multi-grain embedding for NER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Leetcode-python/.idea/Leetcode-python.iml" filepath="$PROJECT_DIR$/../Leetcode-python/.idea/Leetcode-python.iml" />
+      <module fileurl="file://D:/CCF/baseline+schema/.idea/baseline+schema.iml" filepath="D:/CCF/baseline+schema/.idea/baseline+schema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../emnlp2017-bilstm-cnn-crf-master/.idea/emnlp2017-bilstm-cnn-crf-master.iml" filepath="$PROJECT_DIR$/../emnlp2017-bilstm-cnn-crf-master/.idea/emnlp2017-bilstm-cnn-crf-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Multi-tasks-word-char-Sequence-tagging/.idea/multi-task for sequence tagging.iml" filepath="$PROJECT_DIR$/../Multi-tasks-word-char-Sequence-tagging/.idea/multi-task for sequence tagging.iml" />
+    </modules>
+  </component>
+</project>
